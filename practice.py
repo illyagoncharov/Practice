@@ -23,7 +23,7 @@ $ git remote add origin git@github.com:GoncharovIS/test_repository.git - підключ
 
 $ git remote -v - інформація стосовно підключення
 
-git remote remove origin - видалити підключення
+git remote remove origin - видалити підключення not
 
 git pull - стягнути зміни з сервера яких немає
 
